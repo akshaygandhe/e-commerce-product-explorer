@@ -5,7 +5,7 @@ A responsive e-commerce web application built with React, TypeScript, Vite, and 
 ## Features
 
 ### Product Browsing
-- Fetch product data from the [Fake Store API](https://fakestoreapi.com/products).
+- Fetch product data from the [Fake Store API].
 - Display products in a responsive grid with reusable product cards.
 - Show product images, titles, categories, prices, and ratings.
 - Display loading, error, and empty states.
